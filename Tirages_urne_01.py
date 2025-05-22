@@ -6,6 +6,7 @@
 # Pour une urne fixée, le nombre de blanches tirées vaut sum(urne)-1
 #  (on doit retirer la blanche initiale)
 # La proba d'obtenir k entre 0 et N vaut 1/(n+1) (car loi uniforme : c'est ce qu'on vérifie)
+# On teste l'ajout d'un commentaire sous Github
 
 ## import des bibliothèques
 import numpy as np
