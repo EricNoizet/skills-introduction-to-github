@@ -1,5 +1,5 @@
 # La fonction tirages_sans_remise effectue des tirages sans remise dans une urne contenant un certain nombre de boules noires et un certain nombre de boules blanches. Elle compte le nombre de boules noires tirées consécutivement jusqu'à ce qu'une boule blanche soit tirée, puis renvoie le nombre de boules noires tirées.
-# test 
+# test deux
 
 ## import des bibliothèques
 import random
